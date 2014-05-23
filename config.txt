@@ -1,0 +1,16 @@
+START
+xLen 64
+yLen 64
+maxBubbles 3
+pressDiff 1.0
+saturationNW 0.50
+Ca 0.000
+totalSteps 1000000
+dStep 1001
+seed 10
+bubbleMergeType 33
+flowType 0
+boundaryType 0
+saveBubbles 1
+STOP
+
